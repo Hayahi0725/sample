@@ -6,5 +6,4 @@ localName: test_github
 
 test blanch
 add 0711
-add 0711 develop
-
+blanch develop 0711
